@@ -1,4 +1,4 @@
-# React-Todo-App
+# React-Item-list-Manager
 Todo list app project using react hooks
 
 
@@ -8,4 +8,3 @@ Todo list app project using react hooks
   <li> Add Todo by pressing Enter key</li>
   <li> Delete Todo</li>
  </ol>
->
